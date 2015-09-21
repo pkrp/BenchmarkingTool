@@ -1,0 +1,17 @@
+# Directories #
+/build/
+/bin/
+target/
+ 
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+ 
+*.pydevproject
+.project
+.metadata
+bin/**
+.classpath
+.settings/
